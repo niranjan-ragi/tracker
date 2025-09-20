@@ -18,7 +18,7 @@ deploy:
   replicas: 1
   
 properties:
-  HOST: mysql-5-7
+  HOST: mysql-8-0
   DBNAME: tracker 
   DBUSERNAME: tracker
   DBTYPE: mysqli
